@@ -2,7 +2,7 @@
 
 ## A novel dual model approach for categorization of unbalanced skin lesion image classes
 
-### Shrey Dedhia, Siddharth Trivedi, Siddharth Salvi, Jay Jani, and Lynette D’mello 
+### Authors: Shrey Dedhia, Siddharth Trivedi, Siddharth Salvi, Jay Jani, and Lynette D’mello 
 #### Presented in the 5th International Conference on Computational Vision and Bio Inspired Computing (ICCVBIC - 2021) on November 25, 2021
 #### Advances in Intelligent Systems and Computing - Springer (Series ISSN : 2194-5357)
 
